@@ -8,7 +8,7 @@
  * ------------------------------------------------------------------------*/
 
 /* Is this a major release or not? */
-#define MAJOR_RELEASE 0
+#define MAJOR_RELEASE 1
 
 /* Define this as a string (of _max_ 14 characters) uniquely identifying the 
  * current version. Upper limit of 14 chars is there to make the banner
@@ -39,9 +39,9 @@
 #define VERSION_STRING "<snapshot>"
 #else
 #if MAJOR_RELEASE
-#define VERSION_STRING MONTH_YEAR
+#define VERSION_STRING "September 2006"
 #else
-#define VERSION_STRING YYYYMMDD
+#define VERSION_STRING "20060920"
 #endif
 #endif
 

@@ -1,3 +1,0 @@
-show $ t3 14
-performGC
-show $ t3 14

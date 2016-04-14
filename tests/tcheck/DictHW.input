@@ -1,6 +1,0 @@
-!cp tcheck/DictHW1.hs DictHW.hs
-:l DictHW.hs
-!cp tcheck/DictHW2.hs DictHW.hs
-:r
-f 1
-!rm DictHW.hs

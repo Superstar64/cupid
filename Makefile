@@ -6,7 +6,7 @@
 NAME = hugs98
 
 # Set to 0 if a snapshot release.
-MAJOR_RELEASE = 0
+MAJOR_RELEASE = 1
 
 # Release number of RPM.
 RELEASE = 1
